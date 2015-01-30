@@ -4,6 +4,7 @@ Hardware:
 * Arduino Uno 
 * 3 LEDs
 * 2 Switches
+
 ***
 
 Using two switches, a total of four possible patterns of LEDs can be controlled (ON-ON, OFF-ON, ON-OFF, OFF-OFF). In this project these correspond to:
